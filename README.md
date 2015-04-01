@@ -33,7 +33,7 @@ After installing LISP, go to your command line and type `clisp` to run the inter
 
 Put this in your LISP REPL:
 
-```lisp
+```common_lisp
 (defun Hello()
     "Hello World"
 )
@@ -41,7 +41,7 @@ Put this in your LISP REPL:
 
 Then to evoke the function you just defined simply call that function within parenthesis.
 
-```lisp
+```common_lisp
 (Hello)
 ```
 
@@ -57,14 +57,14 @@ Everything is an expression enclosed in parenthesis. If you're program is broken
 
 Let's learn how to define a function in lisp. The keyword for a function/method in  lisp is appropriately named, `defun`, for de-funning all the things about programming.
 
-```lisp
+```common_lisp
 (defun Hello ()
     "Return Value"
 )
 ```
 ## Defining Variables
 
-```lisp
+```common_lisp
 (let ((x 10) (y 20))
 ```
 
@@ -75,7 +75,7 @@ That uses the let extension predicate to create two barewords, variables, `x` as
 
 To control flow logic like conditionals, use the `(cond ())` syntax like:
 
-```lisp
+```common_lisp
 (defun is_a_teenager (n)
     (cond (>= n 12) (
        (cond (<= n 20) "Yes")
