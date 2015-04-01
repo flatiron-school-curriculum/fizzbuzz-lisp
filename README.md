@@ -9,7 +9,9 @@ languages: lisp
 
 Since we're all about abstraction, before we learn a high level language like ruby, we should first learn a lower level language like LISP. Where Ruby has 42 some odd keywords providing us with many abstractions, lisp only has 5 predicates. Anyway, you tend to always end up building a LISP like language.
 
-    Any sufficiently complicated C or Fortran program contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp.
+    Any sufficiently complicated C or Fortran program contains an ad hoc, 
+    informally-specified, bug-ridden, slow implementation of half of Common
+    Lisp.
 
 So let's just learn LISP.
 
