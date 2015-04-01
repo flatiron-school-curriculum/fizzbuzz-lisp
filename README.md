@@ -7,7 +7,7 @@ languages: lisp
 
 ![LISP, the Language of Creation](https://imgs.xkcd.com/comics/lisp.jpg)
 
-Since we're all about abstraction, before we learn a high level language like ruby, we should first learn a lower level language like LISP. Where Ruby has 42 some odd keywords providing us with many abstractions, lisp only has 5 predicates. Anyway, you tend to always end up building a LISP like language.
+Since we're all about abstraction, before we learn a high level language like ruby, we should first learn a lower level language like LISP. Where Ruby has 42 some odd keywords providing us with many abstractions, lisp only has 5 predicates. Anyway, you tend to always end up building a LISP like language. It's even [Greenspun's tenth rule of programming](https://en.wikipedia.org/wiki/Greenspun%27s_tenth_rule)
 
     Any sufficiently complicated C or Fortran program contains an ad hoc, 
     informally-specified, bug-ridden, slow implementation of half of Common
