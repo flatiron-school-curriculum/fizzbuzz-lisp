@@ -1,7 +1,4 @@
----
-tags: lisp, fizzbuzz
-languages: lisp
----
+
 
 # Intro to Common Lisp and Fizzbuzz
 
