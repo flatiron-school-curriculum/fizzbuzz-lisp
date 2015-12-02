@@ -90,3 +90,5 @@ Fizzbuzz is the basic test of competency in code.
 Build a lisp function that takes an argument and returns Fizz if it's divisible by 3, Buzz if it's divisible by 5, and FizzBuzz if it's divisible by both 3 and 5. You can use the `mod` function to do that in lisp.
 
 Test suite is included in `fizzbuzz-tests.lisp`
+
+<a href='https://learn.co/lessons/fizzbuzz-lisp' data-visibility='hidden'>View this lesson on Learn.co</a>
