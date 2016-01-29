@@ -91,4 +91,4 @@ Build a lisp function that takes an argument and returns Fizz if it's divisible 
 
 Test suite is included in `fizzbuzz-tests.lisp`
 
-<a href='https://learn.co/lessons/fizzbuzz-lisp' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fizzbuzz-lisp' title='Intro to Common Lisp and Fizzbuzz'>Intro to Common Lisp and Fizzbuzz</a> on Learn.co and start learning to code for free.</p>
